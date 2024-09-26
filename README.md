@@ -1,7 +1,7 @@
 
 ---
 
-Calculadora JS
+# Calculadora JS
 
 Bem-vindo ao repositório Calculadora JS! Este projeto é uma calculadora simples desenvolvida utilizando HTML, CSS e JavaScript.
 
