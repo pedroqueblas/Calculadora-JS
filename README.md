@@ -76,11 +76,5 @@ Para visualizar o histórico de commits:
 
 git log
 
-
-Licença
-
-Este projeto está licenciado sob a licença MIT. Para mais detalhes, veja o arquivo LICENSE.
-
-
 ---
 
